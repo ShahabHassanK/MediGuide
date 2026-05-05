@@ -60,7 +60,7 @@ MediGuide is a full-stack AI health assistant that lets users ask questions abou
 
 ### Voice Agent in Action
 
-[![MediGuide Voice Agent Demo](https://img.youtube.com/vi/CppNc1kRIW8/maxresdefault.jpg)](https://youtu.be/CppNc1kRIW8)
+[![MediGuide Voice Agent Demo](https://img.youtube.com/vi/CppNc1kRIW8/hqdefault.jpg)](https://youtu.be/CppNc1kRIW8)
 
 
 ---
