@@ -699,7 +699,7 @@ MediGuide/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://www.github.com/mediguide.git
+git clone https://www.github.com/shahabhassank/mediguide.git
 cd mediguide
 ```
 
