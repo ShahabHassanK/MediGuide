@@ -34,9 +34,7 @@ pnpm-debug.log*
 
 # ── Data & Media ───────────────────────────────────────────────────────────────
 data/
-Screenshots/
 *.pdf
-*.mp4
 *.mp3
 *.wav
 *.avi
